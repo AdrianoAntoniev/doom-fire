@@ -5,5 +5,5 @@ App in pure SwiftUI based on Filipe Deschamps (https://www.youtube.com/watch?v=f
 (low frame rate because of SwiftUI's limitations). 
 
 <p align="center">
-   <img src="">
+   <img src="https://github.com/AdrianoAntoniev/doom-fire/blob/main/output.gif">
 </p>
